@@ -6,9 +6,10 @@
 #### VOCABULARY
 
 HTML / Div Tags 
-> HTML (HyperText Markup Language) is not actually a programming a language, but rather the structure of the web page.
-
-> <div> tags define a division or section of an HTML document.  There are different tags for different uses, for instance an <a> tag is used for links.  All <div> tags need a closing </div> tag. You can nest a <div> in a <div>.
+```
+HTML (HyperText Markup Language) is not actually a programming a language, but rather the structure of the web page.
+<div> tags define a division or section of an HTML document.  There are different tags for different uses, for instance an <a> tag is used for links.  All <div> tags need a closing </div> tag. You can nest a <div> in a <div>.
+```
 ```HTML
 <div>
 	Text in my div
@@ -17,8 +18,10 @@ HTML / Div Tags
 ```
 
 CSS / IDs and Classes
-> CSS (Cascading Style Sheets) are the styles for the structure of the web page.
-> They have different selectors called Classes and Ids - Classes are selected by . and IDs by #
+```
+CSS (Cascading Style Sheets) are the styles for the structure of the web page.
+They have different selectors called Classes and Ids - Classes are selected by . and IDs by #
+```
 
 ```CSS
 .myClass{ 
