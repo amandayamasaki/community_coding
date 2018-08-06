@@ -19,9 +19,7 @@ var rituals_description = [
 ]
 
 function getRitual(){
-	var description = document.getElementById("description").innerHTML
 	var randomIndex = Math.floor(Math.random() * rituals_title.length); 
 	document.getElementById("title").innerHTML = rituals_title[randomIndex]
 	document.getElementById("description").innerHTML = rituals_description[randomIndex]
-	// rituals_description[randomIndex]
 }

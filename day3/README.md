@@ -68,7 +68,7 @@ Create an application that will display a self-care ritual when you push a butto
 
 
 #### Daily Feedback Form
-Please add the link to todays activity below. 
+Please submit your code for today's activity below.  
 
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 

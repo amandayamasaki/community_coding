@@ -95,6 +95,6 @@ Find lyrics online to any song and get the lyrics to print into the console usin
 
 
 #### Daily Feedback Form
-Please add the link to todays activity below. 
+Please submit your code for today's activity below. 
 
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
