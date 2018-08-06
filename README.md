@@ -20,14 +20,14 @@ No coding experience necessary.
 ***
 
 ### Daily Code Exercises 
-[DAY ONE](./tree/master/day1): Introduction to HTML & CSS
+[DAY ONE](./day1): Introduction to HTML & CSS
 
-[DAY TWO](./tree/master/day2): Javascript, Functions & Conditionals
+[DAY TWO](./day2): Javascript, Functions & Conditionals
 
-[DAY THREE](./tree/master/day3): Data Types
+[DAY THREE](./day3): Data Types
 
-[DAY FOUR](./tree/master/day4): Loops
+[DAY FOUR](./day4): Loops
 
-[DAY FIVE](./tree/master/day5): API calls
+[DAY FIVE](./day5): API calls
 
 
