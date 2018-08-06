@@ -64,5 +64,6 @@ We are going to build a basic "about me" website. On this website, we can add in
 
 
 #### Daily Feedback Form
-Please add the link to todays activity below (the source code). 
+Please add the link to todays activity below. 
+
 [Feedback Form](https://docs.google.com/spreadsheets/d/1JH0LwHmOrJA7RkFjZoDAZOLalfMem3gquO3SCI5Z9Qg/edit#gid=1615466959)
