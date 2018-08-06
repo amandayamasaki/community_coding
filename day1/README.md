@@ -8,7 +8,9 @@
 HTML / Div Tags 
 ```
 HTML (HyperText Markup Language) is not actually a programming a language, but rather the structure of the web page.
-<div> tags define a division or section of an HTML document.  There are different tags for different uses, for instance an <a> tag is used for links.  All <div> tags need a closing </div> tag. You can nest a <div> in a <div>.
+<div> tags define a division or section of an HTML document.  
+There are different tags for different uses, for instance an <a> tag is used for links.  
+All <div> tags need a closing </div> tag. You can nest a <div> in a <div>.
 ```
 ```HTML
 <div>
