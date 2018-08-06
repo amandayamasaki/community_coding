@@ -3,3 +3,70 @@
 ***** STYLESHEET *****
 This is where we can style our HTML. 
 */
+
+h1{
+	color:#BF112E;
+}
+
+.body{
+	height:100vh;
+	width:100vw;
+	background-color: #F16541;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	top:0;
+	left:0;
+}
+.header{
+	width:100%;
+	text-align: center;
+	font-family: sans-serif;
+	color:white;
+	margin-top:20vh;
+}
+.buttons{
+	width:100%;
+	text-align: center;
+	margin-bottom: 2vh;
+}
+.btn{
+	border: solid 2px white;
+	border-radius: 5px;
+	background: none;
+	padding:10px;
+	color:white;
+	font-size:15px;
+	margin:2vw;
+	font-weight: 600;
+	transition:linear .2s;
+}
+.btn:hover{
+	background:white;
+	color:#F16541;
+}
+.btn:focus{
+	outline:none;
+}
+.rituals{
+	font-family: sans-serif;
+	height:20vh;
+	color:white;
+	width:30%;
+	text-align: center;
+	margin-left: calc(35%);
+}
+#title:before{
+	content:"{ ";
+}
+#title:after{
+	content:" }";
+}
+#title{
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 600;
+}
+#description{
+	font-size: 17px;
+	font-weight: 500;
+}

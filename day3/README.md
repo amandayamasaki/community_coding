@@ -5,6 +5,11 @@
 
 #### VOCABULARY
 
+Scope
+```
+Variables defined inside a function are in local scope while variables defined outside of a function are in the global scope. Each function when invoked creates a new scope. 
+```
+
 Arrays
 ```
 A list of values that can be indexed from 0.
@@ -55,7 +60,7 @@ Create an application that will display a self-care ritual when you push a butto
 - demo site : https://self-care-app.glitch.me/
 
 #### CHALLENGE
-
+- Add a condition to your code to make sure that a ritual cannot be displayed twice in a row.  You will have to know scope to implement this!
 
 ***
 
