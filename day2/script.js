@@ -15,6 +15,7 @@
 // I thought you'd always be mine
 
 var flag = false;
+
 function baby(start, end){
 	console.log(start + "baby, baby, baby " + end);
 }
