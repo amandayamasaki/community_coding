@@ -8,3 +8,4 @@ package-lock.json
 
 # Keys
 keys.json
+/day5/.env
