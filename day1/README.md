@@ -1,5 +1,5 @@
 # COMMUNITY CODING DAY 1
-### Introduction to HTML & CSS.
+### Introduction to HTML & CSS
 
 ***
 
