@@ -7,7 +7,9 @@
 
 Scope
 ```
-Variables defined inside a function are in local scope while variables defined outside of a function are in the global scope. Each function when invoked creates a new scope. 
+Variables defined inside a function are in local scope. 
+Variables defined outside of a function are in the global scope. 
+Each function when invoked creates a new scope. 
 ```
 
 Arrays
