@@ -12,6 +12,7 @@ HTML (HyperText Markup Language) is not actually a programming a language, but r
 There are different tags for different uses, for instance an <a> tag is used for links.  
 All <div> tags need a closing </div> tag. You can nest a <div> in a <div>.
 ```
+
 ```HTML
 <div>
 	Text in my div
@@ -50,7 +51,8 @@ We are going to build a basic "about me" website. On this website, we can add in
 - Link an image into our HTML. 
 
 #### SAMPLE WEBSITE
-https://glitch.com/edit/#!/about-me-website
+edit the source code : https://glitch.com/edit/#!/about-me-website
+demo site : https://about-me-website.glitch.me/
 
 #### CHALLENGE
 - Research what pseudo classes are!
