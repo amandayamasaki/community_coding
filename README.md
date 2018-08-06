@@ -1,9 +1,8 @@
 # COMMUNITY CODING
 
-#### Course Number 1489 + 1490
-#### August 6 - August 17 (Mon - Fri)
-#### Instructors:
-Amanda Yamasaki, Teresa Bensel, Haman Cross III
+#### Course Number: 1489 + 1490
+#### Dates: August 6 - August 17 (Mon - Fri), 2018
+#### Instructors: Amanda Yamasaki, Teresa Bensel, Haman Cross III
 
 ### Course Description
 Want to learn how to design and code an app? This course is about art and technology. We will learn about the internet of things and how tech can creatively interact with outdoor space like murals, community gardens and sculptures. We will explore our environment with field trips and outdoor projects and using data and tech to think creatively about our app design. This course is a unique collaboration between SAIC and North Lawndale. Come experiment with us! 
@@ -21,14 +20,14 @@ No coding experience necessary.
 ***
 
 ### Daily Code Exercises 
-[DAY ONE](../tree/master/day1): Introduction to HTML & CSS
+[DAY ONE](./tree/master/day1): Introduction to HTML & CSS
 
-[DAY TWO](../tree/master/day2): Javascript, Functions & Conditionals
+[DAY TWO](./tree/master/day2): Javascript, Functions & Conditionals
 
-[DAY THREE](../tree/master/day3): Data Types
+[DAY THREE](./tree/master/day3): Data Types
 
-[DAY FOUR](../tree/master/day4): Loops
+[DAY FOUR](./tree/master/day4): Loops
 
-[DAY FIVE](../tree/master/day5): API calls
+[DAY FIVE](./tree/master/day5): API calls
 
 
