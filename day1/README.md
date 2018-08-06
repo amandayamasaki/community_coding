@@ -51,8 +51,8 @@ We are going to build a basic "about me" website. On this website, we can add in
 - Link an image into our HTML. 
 
 #### SAMPLE WEBSITE
-edit the source code : https://glitch.com/edit/#!/about-me-website
-demo site : https://about-me-website.glitch.me/
+- edit the source code : https://glitch.com/edit/#!/about-me-website
+- demo site : https://about-me-website.glitch.me/
 
 #### CHALLENGE
 - Research what pseudo classes are!
