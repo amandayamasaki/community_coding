@@ -51,8 +51,8 @@ Create an application that will display a self-care ritual when you push a butto
 - Use an Array to hold the self-care rituals. 
 
 #### SAMPLE WEBSITE
-- edit the source code :
-- demo site :
+- edit the source code : https://glitch.com/edit/#!/self-care-app
+- demo site : https://self-care-app.glitch.me/
 
 #### CHALLENGE
 
