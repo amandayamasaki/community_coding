@@ -25,7 +25,7 @@ Booleans
 True or False.
 ```
 
-##### BONUS VOCABULARY
+#### BONUS VOCABULARY
 
 Callback Functions
 ```
