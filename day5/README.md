@@ -1,19 +1,21 @@
-# COMMUNITY CODING DAY 4
-### Loops
+# COMMUNITY CODING DAY 5
+### API calls
 
 ***
 
 #### VOCABULARY
 
-For Loops
+API
 ```
-A way to execute a block of code a number of times.
+Application Programming Interface that allows two computers to send data.
 ```
-
-```javascript
-for (var i=0;i<3;i++){
-	// execute this 3 times
-}
+JSON Objects
+```
+Data stored in a particular format for reading / writing. 
+```
+Parse
+```
+To read JSON Objects.
 ```
 
 
@@ -22,13 +24,12 @@ for (var i=0;i<3;i++){
 
 #### ACTIVITY
 
-## QUIZ APP
-Create a quiz app that will check if user input is right or not. 
+## CTA BUS TRACKER APP
+Create an app that will make an API call to the CTA Bus Tracker API
 
 #### REQUIREMENTS
-- Use loops, arrays and random().
 - Use functions to generate HTML dynamically on the page when a button is pushed.
-- Code a way to check and see if user input is right.
+- Make an API call & have the resulting data populate the page. 
 
 #### SAMPLE WEBSITE
 - edit the source code : 
