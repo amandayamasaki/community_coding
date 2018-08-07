@@ -94,6 +94,7 @@ Dequan	https://glitch.com/edit/#!/biggloqua?path=index.html:4:22
 
 Janiya	https://glitch.com/edit/#!/all-about-janiya?path=index.html:28:0
 
+
 #### 8.7.18 Student Repositories
 
 Jversln	https://glitch.com/edit/#!/bubble-shape?path=index.html:1:0
