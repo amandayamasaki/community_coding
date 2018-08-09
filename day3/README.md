@@ -72,6 +72,30 @@ Please submit your code for today's activity below.
 
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
+***
+
+#### 8.8.18  Student Repositories
+
+Anita	https://glitch.com/edit/#!/self-care-rituals?path=script.js:17:243
+
+Alexandria	https://myselfcareritual.glitch.me/
+
+janiya`	https://janiya.glitch.me/
+
+Louise	https://glitch.com/edit/#!/quiver-kidney?path=index.html:31:61971
+
+dequan	https://glitch.com/edit/#!/enthusiastic-tyrannosaurus?path=script.js:13:7
+
+Jaliyah	https://glitch.com/edit/#!/j-herbo?path=style.css:35:23
+
+Alissa	https://glitch.com/edit/#!/alissa-self-care?path=script.js:22:1
+
+Alexus 	https://glitch.com/edit/#!/alexus-self-care?path=index.html:1:0
+
+omarion	https://glitch.com/edit/#!/to-help-ye?path=index.html:13:0
+
+jamisha	https://glitch.com/edit/#!/self-care-app?path=style.css:43:11
+
 
 
 
