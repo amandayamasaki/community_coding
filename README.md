@@ -19,7 +19,8 @@ No coding experience necessary.
 
 ***
 
-### Daily Code Exercises 
+### DAILY CODE EXERCISES
+ 
 [LESSON ONE](./1_lesson): Introduction to HTML & CSS - About Me App
 
 [LESSON TWO](./2_lesson): Javascript, Functions & Conditionals - Songwriting Activity
@@ -31,3 +32,6 @@ No coding experience necessary.
 [LESSON FIVE](./5_lesson): API calls - CTA Traintracker App (Optional)
 
 
+***
+
+### MURAL + CLASS APP
