@@ -16,12 +16,6 @@ No coding experience necessary.
 
 *Be inspired by…* Other individuals working within the disciplines of art, technology, and socially engaged design.  Students will also be inspired to imagine how we can re-create systems within technology.  
 
-
-#### Daily Feedback Form
-Please submit your code for today's activity below.
-
-[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
-
 ***
 
 ### DAILY CODE EXERCISES
@@ -36,6 +30,11 @@ Please submit your code for today's activity below.
 
 [LESSON FIVE](./5_lesson): API calls - CTA Traintracker App (Optional)
 
+
+### Daily Feedback Form
+Please submit your code for today's activity below.
+
+[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
 ***
 
