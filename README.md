@@ -54,4 +54,4 @@ Fun Sites
 
 ## MURAL + CLASS APP
 
-
+![app planning image](./assets/IMG_0020.jpg)
