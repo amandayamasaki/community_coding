@@ -39,15 +39,11 @@ No coding experience necessary.
 #### Coding resources
 
 - [w3schools](https://www.w3schools.com/)
-
 - [Stack Overflow](https://stackoverflow.com/)
-
 - [CSS Tricks](https://css-tricks.com/)
 
 Fun Sites
-
 - [Hacker Typer](http://hackertyper.com/)
-
 - [issa.website](https://issa.website/)
 
 ***
