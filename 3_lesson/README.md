@@ -97,5 +97,26 @@ omarion	https://glitch.com/edit/#!/to-help-ye?path=index.html:13:0
 jamisha	https://glitch.com/edit/#!/self-care-app?path=style.css:43:11
 
 
+#### 8.9.18 Student Repositories
 
+Jaliyah	https://glitch.com/edit/#!/liyah?path=style.css:53:11
 
+Anita	https://glitch.com/edit/#!/functional-talk?path=script.js:17:33
+
+Osayi	https://glitch.com/edit/#!/kindly-bus?path=script.js:20:137
+
+Alissa	https://glitch.com/edit/#!/alissa-self-care?path=index.html:27:31
+
+Janiya	https://glitch.com/edit/#!/selfcareofjay?path=style.css:67:15
+
+Alexus	https://glitch.com/edit/#!/alexus-loving?path=README.md:1:0
+
+Omarion	https://glitch.com/edit/#!/to-help-ye?path=style.css:15:10
+
+Alexandria	https://incandescent-sandwich.glitch.me/
+
+jverson	https://glitch.com/edit/#!/awake-crystal?path=style.css:14:19
+
+dequan	https://glitch.com/edit/#!/dequan-keys16?path=script.js:3:47
+
+jamisha	https://chain-saxophone.glitch.me/
