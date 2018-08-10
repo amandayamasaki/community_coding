@@ -20,14 +20,14 @@ No coding experience necessary.
 ***
 
 ### Daily Code Exercises 
-[LESSON ONE](./day1): Introduction to HTML & CSS - About Me App
+[LESSON ONE](./1_lesson): Introduction to HTML & CSS - About Me App
 
-[LESSON TWO](./day2): Javascript, Functions & Conditionals - Songwriting Activity
+[LESSON TWO](./2_lesson): Javascript, Functions & Conditionals - Songwriting Activity
 
-[LESSON THREE](./day3): Data Types - Self Care App
+[LESSON THREE](./3_lesson): Data Types - Self Care App
 
-[LESSON FOUR](./day4): Loops - Quiz App (Optional)
+[LESSON FOUR](./4_lesson): Loops - Quiz App (Optional)
 
-[LESSON FIVE](./day5): API calls - CTA Traintracker App (Optional)
+[LESSON FIVE](./5_lesson): API calls - CTA Traintracker App (Optional)
 
 
