@@ -8,4 +8,4 @@ package-lock.json
 
 # Keys
 keys.json
-/day5/.env
+./mural_app/assets/keys.js
