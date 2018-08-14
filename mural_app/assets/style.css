@@ -1,0 +1,74 @@
+.wrapper{
+	background-color: black;
+	height:100vh;
+	width:100vw;
+	background-repeat: none;
+	background-size:cover;
+}
+
+.sidebar{
+	height:100vh;
+	background-color: #191919;
+	position:fixed;
+	z-index: 1;
+	padding:0 !important;
+}
+
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    color: #4C4C4C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    border-bottom:1px solid black;
+}
+.sidebar a:hover{
+	background-color: black;
+	text-decoration: none;
+	color:white;
+}
+.sidebar a:focus{
+	color:white;
+	text-decoration: none;
+	background-color:black;
+	outline:none;
+}
+.menu-title{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	color:#ccc;
+	font-weight: 650;
+	margin:25px 16px 10px 16px;
+	padding-bottom: 10px;
+	border-bottom:2px solid #4C4C4C;
+}
+.header h1{
+	color:#4C4C4C;
+	font-size:50pt;
+}
+.sub-header{
+	height:100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	border-left:3px solid #191919;
+	color:#ccc;
+}
+.header{
+	min-height:12vh;
+	height:12vh;
+}
+.content{
+	color:white;
+}
+.form-description{
+	height:20vh !important;
+}
+
+.form-group .btn{
+	color:black !important;
+	background-color:#4C4C4C !important;
+}

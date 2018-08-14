@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>App Title</title>
+	<link rel="stylesheet" type="text/css" href="./assets/style.css">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body onload="loadResources()">
+	<div class="wrapper">
+		<div class="col-sm-2 sidebar">
+			<div class="top-menu">
+				<div class="menu-title">NORTH LAWNDALE</div>
+				<a class="menu-item" href="./index.html">Home</a>
+				<a class="menu-item" href="#">Resources</a>
+				<a class="menu-item" href="#">Photos</a>
+				<a class="menu-item" href="#">Mural</a>
+			</div>
+			<div class="artist-menu">
+				<div class="menu-title">ARTISTS</div>
+				<a class="menu-item" href="#">Artist 1</a>
+				<a class="menu-item" href="#">Artist 2</a>
+				<a class="menu-item" href="#">Artist 3</a>
+				<a class="menu-item" href="#">Artist 4</a>
+				<a class="menu-item" href="#">Artist 5</a>
+				<a class="menu-item" href="#">Artist 6</a>
+				<a class="menu-item" href="#">Artist 7</a>
+				<a class="menu-item" href="#">Artist 8</a>
+				<a class="menu-item" href="#">Artist 9</a>
+				<a class="menu-item" href="#">Artist 10</a>
+				<a class="menu-item" href="#">Artist 11</a>
+				<a class="menu-item" href="#">Artist 12</a>
+			</div>
+		</div>
+		<div class="col-sm-10">
+			<div class="header row">
+				<div class="col-xs-12">
+					<h1>#classHashtag</h1>
+				</div>
+			</div>
+			<div class="content row">
+				<div class="col-sm-6 col-lg-7">
+					<h2>Current Resources :</h2>
+					<div id="resources"></div>
+				</div>
+				<div class="col-sm-6 col-lg-5">
+					<h2>Add a Resource :</h2>
+					<form class="form-group" onsubmit="formHandler()">
+						<br>
+						<p>Type of Organization :</p>
+						<select multiple class="form-control" id="form-organizationType">
+						    <option>Option 1</option>
+						    <option>Option 2</option>
+						    <option>Option 3</option>
+						    <option>Option 4</option>
+						    <option>Option 5</option>
+						    <option>Option 6</option>
+						    <option>Option 7</option>
+						    <option>Option 8</option>
+						    <option>Option 9</option>
+						    <option>Option 10</option>
+						    <option>Option 11</option>
+						    <option>Option 12</option>
+						    <option>Option 13</option>
+						    <option>Option 14</option>
+					    </select>
+					    <br>
+						<p>Location Name :</p>
+					  	<input class="form-control" id="form-location" type="text" name="location">
+					  	<br>
+					  	<p>Description :</p>
+					  	<textarea class="form-control form-description" id="form-description" type="text" name="description" cols="40" rows="5"></textarea>
+					  	<br>
+					  	<button class="btn" type="submit">submit</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script src="https://www.gstatic.com/firebasejs/5.3.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCp9gBafWmEHke9U310rBAG974ko0PGyGo",
+    authDomain: "community-coding.firebaseapp.com",
+    databaseURL: "https://community-coding.firebaseio.com",
+    projectId: "community-coding",
+    storageBucket: "",
+    messagingSenderId: "714205917139"
+  };
+  firebase.initializeApp(config);
+</script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+  		integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  		crossorigin="anonymous">	
+ </script>
+<script type="text/javascript" src="./assets/script.js"></script>
+</html>
