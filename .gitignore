@@ -8,4 +8,4 @@ package-lock.json
 
 # Keys
 keys.json
-./mural_app/assets/keys.js
+/mural_app/assets/keys.js
