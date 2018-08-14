@@ -11,28 +11,30 @@
 
 <body onload="loadResources()">
 	<div class="wrapper">
-		<div class="col-sm-2 sidebar">
-			<div class="top-menu">
-				<div class="menu-title">NORTH LAWNDALE</div>
-				<a class="menu-item" href="./index.html">Home</a>
-				<a class="menu-item" href="#">Resources</a>
-				<a class="menu-item" href="#">Photos</a>
-				<a class="menu-item" href="#">Mural</a>
-			</div>
-			<div class="artist-menu">
-				<div class="menu-title">ARTISTS</div>
-				<a class="menu-item" href="#">Artist 1</a>
-				<a class="menu-item" href="#">Artist 2</a>
-				<a class="menu-item" href="#">Artist 3</a>
-				<a class="menu-item" href="#">Artist 4</a>
-				<a class="menu-item" href="#">Artist 5</a>
-				<a class="menu-item" href="#">Artist 6</a>
-				<a class="menu-item" href="#">Artist 7</a>
-				<a class="menu-item" href="#">Artist 8</a>
-				<a class="menu-item" href="#">Artist 9</a>
-				<a class="menu-item" href="#">Artist 10</a>
-				<a class="menu-item" href="#">Artist 11</a>
-				<a class="menu-item" href="#">Artist 12</a>
+		<div class="col-sm-2">
+			<div class="sidebar">
+				<div class="top-menu">
+					<div class="menu-title">NORTH LAWNDALE</div>
+					<a class="menu-item" href="./index.html">Home</a>
+					<a class="menu-item" href="#">Resources</a>
+					<a class="menu-item" href="#">Photos</a>
+					<a class="menu-item" href="#">Mural</a>
+				</div>
+				<div class="artist-menu">
+					<div class="menu-title">ARTISTS</div>
+					<a class="menu-item" href="#">Artist 1</a>
+					<a class="menu-item" href="#">Artist 2</a>
+					<a class="menu-item" href="#">Artist 3</a>
+					<a class="menu-item" href="#">Artist 4</a>
+					<a class="menu-item" href="#">Artist 5</a>
+					<a class="menu-item" href="#">Artist 6</a>
+					<a class="menu-item" href="#">Artist 7</a>
+					<a class="menu-item" href="#">Artist 8</a>
+					<a class="menu-item" href="#">Artist 9</a>
+					<a class="menu-item" href="#">Artist 10</a>
+					<a class="menu-item" href="#">Artist 11</a>
+					<a class="menu-item" href="#">Artist 12</a>
+				</div>
 			</div>
 		</div>
 		<div class="col-sm-10">
@@ -48,7 +50,7 @@
 				</div>
 				<div class="col-sm-6 col-lg-5">
 					<h2>Add a Resource :</h2>
-					<form class="form-group" onsubmit="formHandler()">
+					<form class="form-group" onsubmit="formHandler()" target="_blank">
 						<br>
 						<p>Type of Organization :</p>
 						<select multiple class="form-control" id="form-organizationType">
@@ -68,7 +70,7 @@
 						    <option>Option 14</option>
 					    </select>
 					    <br>
-						<p>Location Name :</p>
+						<p>Organization Name :</p>
 					  	<input class="form-control" id="form-location" type="text" name="location">
 					  	<br>
 					  	<p>Description :</p>
