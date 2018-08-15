@@ -43,7 +43,8 @@ No coding experience necessary.
 ## MURAL + CLASS APP
 
 [Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): This is the template for our website pages!
-[Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070)
+
+[Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070): This is the link to our class google doc!
 
 ![app planning image](./assets/IMG_0020.jpg)
 
