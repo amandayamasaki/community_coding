@@ -32,7 +32,7 @@ No coding experience necessary.
 
 ## MURAL + CLASS APP
 
-[Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): Use this as a template for our website!
+[Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): This is the template for our website pages!
 
 ![app planning image](./assets/IMG_0020.jpg)
 
