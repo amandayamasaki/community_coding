@@ -35,7 +35,7 @@ No coding experience necessary.
 - Alexandria	https://allaboutalex.glitch.me/index.html
 - Anita	https://about-anita-g.glitch.me/index.html
 - Alissa	https://about-mealissa.glitch.me
-- jverson	https://cdn-images-1.medium.com/max/1920/1*rrzxBVrjgo94qf5mB0zyMA.jpeg
+- jverson	https://glitch.com/edit/#!/desert-opinion
 - Alexus	https://aboutme-alexusloving.glitch.me/
 
 ***
