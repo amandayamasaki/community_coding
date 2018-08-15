@@ -26,11 +26,15 @@ No coding experience necessary.
 
 [LESSON THREE](./3_lesson): Data Types - Self Care App
 
-[LESSON FOUR](./4_lesson): Loops - Quiz App (Optional)
-
-[LESSON FIVE](./5_lesson): API calls - CTA Traintracker App (Optional)
-
 [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
+
+***
+
+## MURAL + CLASS APP
+
+[Mural Template](https://glitch.com/edit/#!/lawndalecoding-template)
+
+![app planning image](./assets/IMG_0020.jpg)
 
 ***
 
@@ -45,9 +49,3 @@ No coding experience necessary.
 Fun Sites
 - [Hacker Typer](http://hackertyper.com/)
 - [issa.website](https://issa.website/)
-
-***
-
-## MURAL + CLASS APP
-
-![app planning image](./assets/IMG_0020.jpg)
