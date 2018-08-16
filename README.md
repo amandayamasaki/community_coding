@@ -27,6 +27,8 @@ No coding experience necessary.
 |[LESSON ONE](./1_lesson)| Introduction to HTML & CSS - About Me App|
 |[LESSON TWO](./2_lesson)| Javascript, Functions & Conditionals - Songwriting Activity|
 |[LESSON THREE](./3_lesson)| Data Types - Self Care App|
+|LESSON FOUR| (optional) Quiz App - uploading soon!|
+|LESSON FIVE| (optional) CTA bus tracker App - uploading soon!|
 
 [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 [Final Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfvZSWL4-smnh_ssZdqmIJPPFGQUAb42naLw7kbn5dRAmiDxw/viewform?usp=sf_link)
