@@ -32,7 +32,7 @@
 - [Jversln](https://glitch.com/edit/#!/bubble-shape?path=index.html:1:0)
 - [Jverson](https://glitch.com/edit/#!/songwriting-challenge?path=README.md:1:0)
 - [louise](https://glitch.com/edit/#!/screeching-clownfish?path=style.css:6:0)
-- [Omoregie](https://glitch.com/edit/#!/super-song?path=script.js:41:0\)
+- [Omoregie](https://glitch.com/edit/#!/super-song)
 
 
 ## 8.8.18 : Day 3
