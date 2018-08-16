@@ -18,7 +18,7 @@ No coding experience necessary.
 
 ***
 
-## [Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
+### [Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
 
 ### CODE EXERCISES
  
