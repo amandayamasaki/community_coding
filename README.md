@@ -56,24 +56,19 @@ No coding experience necessary.
 
 #### Job Resources
 
-[Built In Chicago](https://www.builtinchicago.org/): A site dedicated to Chicago Start Ups and jobs in the tech industry.
-
-[Glassdoor](https://www.glassdoor.com/): A site that gives insight to life at a job, as well as job listings both in the tech industry and not!
+- [Built In Chicago](https://www.builtinchicago.org/): A site dedicated to Chicago Start Ups and jobs in the tech industry.
+- [Glassdoor](https://www.glassdoor.com/): A site that gives insight to life at a job, as well as job listings both in the tech industry and not!
 
 
 #### Internship Resources
-[Microsoft Leap](http://www.industryexplorers.com/): An immersive, 16-week program providing you with real-world experience through development and project management apprenticeships. We’re seeking a diversity of participants with unique perspectives, who may have a non-traditional background or returning from time away from the workplace. The program combines traditional classroom learning with hands-on projects.  This Internship can lead to a job at Mircrosoft!
+- [Microsoft Leap](http://www.industryexplorers.com/): An immersive, 16-week program providing you with real-world experience through development and project management apprenticeships. We’re seeking a diversity of participants with unique perspectives, who may have a non-traditional background or returning from time away from the workplace. The program combines traditional classroom learning with hands-on projects.  This Internship can lead to a job at Mircrosoft!
 
 
 #### Organizations
 
-[iMentor](https://imentor.org/): An organization that matches every student in our high schools with a committed college-educated mentor, equipped to guide that young person on their journey to college graduation.
-
-[Girls Who Code](https://girlswhocode.com/): An organization to dedicated to women in tech. They offer a variety of programs such as:
-- [Campus Programs](https://girlswhocode.com/campus/) for software development courses on local college campuses. 
-- [Summer Immersion Programs](https://girlswhocode.com/summer-immersion-programs/) for internships / introductions to computer science at local companies. 
-
-[Girl Develop It](https://www.girldevelopit.com/): An organization dedicated to women in tech. 
+- [iMentor](https://imentor.org/): An organization that matches every student in our high schools with a committed college-educated mentor, equipped to guide that young person on their journey to college graduation.
+- [Girls Who Code](https://girlswhocode.com/): An organization to dedicated to women in tech. They offer a variety of programs such as [Campus Programs](https://girlswhocode.com/campus/) for software development courses on local college campuses, and [Summer Immersion Programs](https://girlswhocode.com/summer-immersion-programs/) for internships / introductions to computer science at local companies. 
+- [Girl Develop It](https://www.girldevelopit.com/): An organization dedicated to women in tech. 
 
 
 ACTIVITY:
