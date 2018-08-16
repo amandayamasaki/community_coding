@@ -18,7 +18,7 @@ No coding experience necessary.
 
 ***
 
-### DAILY CODE EXERCISES
+### CODE EXERCISES
  
 [LESSON ONE](./1_lesson): Introduction to HTML & CSS - About Me App
 
@@ -28,15 +28,7 @@ No coding experience necessary.
 
 [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
-#### 8.14.18 Student Repositories
-- Osayi 	https://cdn.glitch.com/9f0ec69d-28c4-46f7-a8d7-200a525feb36%2Fcurled-up-fox-doris-potter.jpg?1533571948139
-- Osayi	https://glitch.com/edit/#!/osayiomoregies-website?path=index.html:35:13
-- omarion	https://oddball2-0.glitch.me/
-- Alexandria	https://allaboutalex.glitch.me/index.html
-- Anita	https://about-anita-g.glitch.me/index.html
-- Alissa	https://about-mealissa.glitch.me
-- jverson	https://glitch.com/edit/#!/desert-opinion
-- Alexus	https://aboutme-alexusloving.glitch.me/
+[Student Repositories](./student-repositories)
 
 ***
 
