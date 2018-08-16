@@ -16,9 +16,9 @@ No coding experience necessary.
 
 *Be inspired by…* Other individuals working within the disciplines of art, technology, and socially engaged design.  Students will also be inspired to imagine how we can re-create systems within technology.  
 
-***
-
 ### [Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
+
+***
 
 ### CODE EXERCISES
  
