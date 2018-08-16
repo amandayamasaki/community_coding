@@ -16,8 +16,6 @@ No coding experience necessary.
 
 *Be inspired by…* Other individuals working within the disciplines of art, technology, and socially engaged design.  Students will also be inspired to imagine how we can re-create systems within technology.  
 
-#### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
-
 ***
 
 ### CODE EXERCISES
@@ -30,8 +28,11 @@ No coding experience necessary.
 |LESSON FOUR| (optional) Quiz App - uploading soon!|
 |LESSON FIVE| (optional) CTA bus tracker App - uploading soon!|
 
-[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
-[Final Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfvZSWL4-smnh_ssZdqmIJPPFGQUAb42naLw7kbn5dRAmiDxw/viewform?usp=sf_link)
+#### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
+
+[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1) : Submit Daily Feedback Here!
+
+[Final Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfvZSWL4-smnh_ssZdqmIJPPFGQUAb42naLw7kbn5dRAmiDxw/viewform?usp=sf_link) : Submit Final Feedback Here
 
 ***
 
