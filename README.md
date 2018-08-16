@@ -26,9 +26,9 @@ No coding experience necessary.
 
 [LESSON THREE](./3_lesson): Data Types - Self Care App
 
-[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
+[Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
 
-[Student Repositories](./student-repositories)
+[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
 ***
 
