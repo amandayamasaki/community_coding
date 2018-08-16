@@ -18,6 +18,8 @@ No coding experience necessary.
 
 ***
 
+## [Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
+
 ### CODE EXERCISES
  
 [LESSON ONE](./1_lesson): Introduction to HTML & CSS - About Me App
@@ -25,8 +27,6 @@ No coding experience necessary.
 [LESSON TWO](./2_lesson): Javascript, Functions & Conditionals - Songwriting Activity
 
 [LESSON THREE](./3_lesson): Data Types - Self Care App
-
-[Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
 
 [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
