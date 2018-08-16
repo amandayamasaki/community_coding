@@ -16,17 +16,17 @@ No coding experience necessary.
 
 *Be inspired by…* Other individuals working within the disciplines of art, technology, and socially engaged design.  Students will also be inspired to imagine how we can re-create systems within technology.  
 
-### [Student Repositories](./student_repositories) : Daily Class Summaries & Student Repositories
+#### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
 
 ***
 
 ### CODE EXERCISES
- 
-[LESSON ONE](./1_lesson): Introduction to HTML & CSS - About Me App
 
-[LESSON TWO](./2_lesson): Javascript, Functions & Conditionals - Songwriting Activity
-
-[LESSON THREE](./3_lesson): Data Types - Self Care App
+|Lesson|Description|
+|:---|:---|
+|[LESSON ONE](./1_lesson)| Introduction to HTML & CSS - About Me App|
+|[LESSON TWO](./2_lesson)| Javascript, Functions & Conditionals - Songwriting Activity|
+|[LESSON THREE](./3_lesson)| Data Types - Self Care App|
 
 [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
@@ -44,12 +44,8 @@ No coding experience necessary.
 
 ### RESOURCES
 
-#### Coding resources
-
-- [w3schools](https://www.w3schools.com/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [CSS Tricks](https://css-tricks.com/)
-
-Fun Sites
-- [Hacker Typer](http://hackertyper.com/)
-- [issa.website](https://issa.website/)
+|Code Resources|Fun Sites|
+|:---|:---|
+|[w3schools](https://www.w3schools.com/)|[Hacker Typer](http://hackertyper.com/)|
+|[Stack Overflow](https://stackoverflow.com/)|[issa.website](https://issa.website/)
+|[CSS Tricks](https://css-tricks.com/)||
