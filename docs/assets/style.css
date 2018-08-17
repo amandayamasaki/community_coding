@@ -84,12 +84,14 @@ body{
 	}
 	.menu-title{
 		border-bottom:2px solid black!important;
+		font-size:30px;
+		text-align: center;
 	}
 	.artist-menu{
 		display: none;
 	}
 	.sidebar{
-		height:80px;
+		height:100px;
 	}
 	.sidebar a{
 		padding: 6px 8px 9px 16px;
