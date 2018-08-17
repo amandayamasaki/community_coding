@@ -30,7 +30,7 @@ No coding experience necessary.
 
 #### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
 
-[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1) : Submit Daily Feedback Here!
+[Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1) : Submit Daily Feedback Here
 
 [Final Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfvZSWL4-smnh_ssZdqmIJPPFGQUAb42naLw7kbn5dRAmiDxw/viewform?usp=sf_link) : Submit Final Feedback Here
 
