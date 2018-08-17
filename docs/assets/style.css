@@ -133,11 +133,15 @@ body{
 		background-color: #191919;
 		border-left:solid 2px black;
 	}
+	.top-menu .menu-item{
+		text-align: center !important;
+	}
 }
 
 @media only screen and (min-width: 992px) {
 	.sidebar-wrapper{
 		height:100vh;
+		position: fixed !important;
 	}
 	.sidebar a{
 		border-bottom:1px solid black;
@@ -156,7 +160,7 @@ body{
 		margin-bottom: 20px;
 	}
 	.home-image{
-		height:50vh;
+		height:45vh;
 		margin-bottom: 10px;
 	}
 	.home-image-wrapper{
@@ -186,11 +190,11 @@ body{
 		border-left: 3px solid #191919;
 	}
 	.artist-menu-body a{
-		padding:10px;
+		padding:5px;
 		border: 1px solid #4C4C4C;
 		text-align: center;
 		transition:.1s linear;
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	.artist-menu-body a:hover{
 		background-color: white;
@@ -206,7 +210,7 @@ body{
 	}
 }
 
-.resource-heading{
+.resource-heading, .index-heading{
 	margin-bottom:20px;
 	padding-bottom: 10px;
 	border-bottom:3px solid #191919;
@@ -222,5 +226,8 @@ body{
     font-weight: 600;
 }
 
+.our-program-content{
+	margin-bottom: 30px;
+}
 
 
