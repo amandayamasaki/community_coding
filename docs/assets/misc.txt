@@ -5,3 +5,14 @@ https://stripe-sleet.glitch.me/
 https://glitch.com/edit/#!/notch-circle?path=index.html:44:51
 
 https://shocking-scene.glitch.me/
+
+
+
+<font size= "6"> Our Program </font>
+        <br>
+		This program is called Community Coding by the School of the Art Institute of Chicago held in Homan Square (North Lawndale Community).
+        In these 2 weeks, we learned the basics of creating websites by practicing with HTML and CSS. 
+        We also had many discussions on how technology impacts and influences the community. 
+        Our goal is to use technology to change how the rest of Chicago<br>views the West Side. 
+        We wanted to create a website for the community where people can have access to events, resources, and information about what goes on in North Lawndale.
+        We hope to give the community a voice to show that there are many positive things and wonderful opportunities not just in North Lawndale, but the whole West Side.<br> 

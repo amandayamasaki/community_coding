@@ -6,25 +6,23 @@ body{
 	background-color:black !important;
 }
 
-.sidebar{
-	height:100vh;
+.sidebar-wrapper{
+	padding: 0 !important;
 	background-color: #191919;
-	left:0;
-	top:0;
-	position:fixed;
-	z-index: 1;
+}
+.sidebar{
+/*	background-color: #191919;*/
 	padding:0 !important;
+	height:100%;
 }
 
 .sidebar a {
-    padding: 6px 8px 6px 16px;
     text-decoration: none;
     color: #4C4C4C;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
-    border-bottom:1px solid black;
 }
 .sidebar a:hover{
 	background-color: black;
@@ -41,11 +39,10 @@ body{
 	display:flex;
 	flex-direction: column;
 	justify-content: center;
-	color:#ccc;
+	color:#ccc !important;
 	font-weight: 650;
-	margin:25px 16px 10px 16px;
-	padding-bottom: 10px;
-	border-bottom:2px solid #4C4C4C;
+	padding:25px 16px 10px 16px;
+	margin-top:10px;
 }
 .header h1{
 	color:#4C4C4C;
@@ -74,3 +71,93 @@ body{
 	color:black !important;
 	background-color:#4C4C4C !important;
 }
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .sidebar .top-menu .col-xs-3 {
+	    text-align: center;
+	}
+	.menu-title{
+		border-bottom:2px solid black!important;
+	}
+	.artist-menu{
+		display: none;
+	}
+	.sidebar{
+		height:80px;
+	}
+	.sidebar a{
+		padding: 6px 8px 9px 16px;
+	}
+	.content{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.home-image{
+		width:100%;
+		margin-bottom: 10px;
+	}
+	.about-heading{
+		text-align: center;
+		color:#4C4C4C;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.sidebar-wrapper{
+		height:100vh;
+	}
+	.sidebar a{
+		border-bottom:1px solid black;
+		padding: 6px 8px 6px 16px;
+	}
+	.artist-menu{
+		padding:0 !important;
+	}
+	.artist-title{
+		margin-top: 20px;
+		color:#ccc !important;
+		font-weight: 650;
+	}
+	.content{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.home-image{
+		height:50vh;
+		margin-bottom: 10px;
+	}
+	.home-image-wrapper{
+		display:flex;
+		flex-direction: row;
+		justify-content: center;
+	}
+	.content h4{
+		margin-top:20px;
+		margin-bottom:20px;
+		text-align: center;
+	}
+	.resource-heading{
+		margin-left:20px;
+		margin-right: 20px;
+	}
+	.about-heading{
+		text-align: right;
+		color:#4C4C4C;
+	}
+}
+
+.resource-heading{
+	margin-bottom:20px;
+	padding-bottom: 10px;
+	border-bottom:3px solid #191919;
+}
+
+
+
+
