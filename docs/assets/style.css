@@ -23,6 +23,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
+    font-weight: 550;
 }
 .sidebar a:hover{
 	background-color: black;
@@ -78,12 +79,13 @@ body{
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
     .sidebar .top-menu .col-xs-3 {
 	    text-align: center;
+	    font-weight: 600;
 	}
 	.menu-title{
-		border-bottom:2px solid black!important;
+		border-bottom:3px solid black!important;
 		font-size:30px;
 		text-align: center;
 	}
@@ -91,7 +93,7 @@ body{
 		display: none;
 	}
 	.sidebar{
-		height:100px;
+		height:105px;
 	}
 	.sidebar a{
 		padding: 6px 8px 9px 16px;
@@ -108,9 +110,32 @@ body{
 		text-align: center;
 		color:#4C4C4C;
 	}
+	.artist-menu-body .menu-item{
+		text-align: center;
+		border-bottom:1px solid #191919;
+		padding:10px;
+	}
+
+	.artist-menu-body a:hover{
+		color:black;
+		text-decoration: none;
+		background-color:white;
+		outline:none;
+	}
+	.artist-menu-body a:focus{
+		color:black;
+		text-decoration: none;
+		background-color:white;
+		outline:none;
+	}
+	.artist-menu-body a{
+		margin-bottom: 25px;
+		background-color: #191919;
+		border-left:solid 2px black;
+	}
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 	.sidebar-wrapper{
 		height:100vh;
 	}
@@ -152,6 +177,33 @@ body{
 		text-align: right;
 		color:#4C4C4C;
 	}
+	.sidebar{
+		position: fixed;
+		top:0;
+		left:0;
+	}
+	.border-left{
+		border-left: 3px solid #191919;
+	}
+	.artist-menu-body a{
+		padding:10px;
+		border: 1px solid #4C4C4C;
+		text-align: center;
+		transition:.1s linear;
+		margin-bottom: 30px;
+	}
+	.artist-menu-body a:hover{
+		background-color: white;
+		text-decoration: none;
+		color:black;
+		border: 1px solid white;
+	}
+	.artist-menu-body a:focus{
+		background-color: white;
+		text-decoration: none;
+		color:black;
+		border: 1px solid white;
+	}
 }
 
 .resource-heading{
@@ -160,6 +212,15 @@ body{
 	border-bottom:3px solid #191919;
 }
 
+.artist-menu-body a{
+	text-decoration: none;
+    color: #4C4C4C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: 600;
+}
 
 
 
