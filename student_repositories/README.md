@@ -1,5 +1,7 @@
 # COMMUNITY CODING
 
+***
+
 
 ## 8.6.18 : Day 1
 
@@ -124,6 +126,10 @@ In the afternoon I showed a couple examples of collage artists while Haman cut b
 
 ## 8.13.18 : Day 6
 
+![mural plan](./../assets/IMG_0020.jpg)
+
+![mural plan 3](./../assets/wireframe.jpg)
+
 #### Summary 
 
 This morning the class completed the I am/I will image/text check in + reflection. Afterwards Amanda presented an organization system for project management to break down remaining tasks for the week. The class split into two groups, one focused on the website connected to the pop up mural and the other focused on the mural itself. 
@@ -185,6 +191,7 @@ In the afternoon we went to TRACE's mural unveiling which to wheatpaste two QR c
 
 ***
 
+![sign](./../assets/sign.jpg)
 
 ## 8.17.18 : Day 10
 

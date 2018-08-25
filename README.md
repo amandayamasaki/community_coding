@@ -34,29 +34,19 @@ No coding experience necessary.
 
 #### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
 
-Submit Daily Feedback Here : [Daily Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
-
-Submit Final Feedback Here : [Final Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfvZSWL4-smnh_ssZdqmIJPPFGQUAb42naLw7kbn5dRAmiDxw/viewform?usp=sf_link)
-
 ***
 
-## MURAL + CLASS APP]
+## MURAL + CLASS APP
 
 ### LINK TO LIVE SITE : [LAWNDALECODING.COM](https://lawndalecoding.com/)
 
-[Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): This is the template for our website pages!
+[Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): Editable template for our website's pages.
 
 [Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070): Class Resource + Information
 
-![mural plan](./assets/IMG_0020.jpg)
-
 ![mural plan 2](./assets/kanban.jpg)
 
-![mural plan 3](./assets/wireframe.jpg)
-
 ***
-
-![sign](./assets/sign.jpg)
 
 © LAWNDALE CODING 2018
 
