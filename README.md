@@ -1,3 +1,5 @@
+![hero image](./assets/hero.jpg)
+
 # COMMUNITY CODING
 
 #### Course Number: 1489 + 1490
@@ -16,6 +18,7 @@ No coding experience necessary.
 
 *Be inspired by…* Other individuals working within the disciplines of art, technology, and socially engaged design.  Students will also be inspired to imagine how we can re-create systems within technology.  
 
+
 ***
 
 ### CODE EXERCISES
@@ -27,6 +30,7 @@ No coding experience necessary.
 |[LESSON THREE](./3_lesson)| Data Types - Self Care App|
 |LESSON FOUR| (optional) Quiz App - uploading soon!|
 |LESSON FIVE| (optional) CTA bus tracker App - uploading soon!|
+|[BONUS ACTIVITY](./job_activity)| Job Research Activity|
 
 #### [DAILY CLASS REPOSITORIES](./student_repositories) : Daily Class Summaries & Student Repositories
 
@@ -36,43 +40,23 @@ Submit Final Feedback Here : [Final Feedback Form](https://docs.google.com/forms
 
 ***
 
-## MURAL + CLASS APP
+## MURAL + CLASS APP]
+
+### LINK TO LIVE SITE : [LAWNDALECODING.COM](https://lawndalecoding.com/)
 
 [Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): This is the template for our website pages!
 
-[Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070): This is the link to our class google doc!
+[Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070): Class Resource + Information
 
-![app planning image](./assets/IMG_0020.jpg)
+![mural plan](./assets/IMG_0020.jpg)
+
+![mural plan 2](./assets/kanban.jpg)
+
+![mural plan 3](./assets/wireframe.jpg)
 
 ***
 
-### RESOURCES
+![sign](./assets/sign.jpg)
 
-|Code Resources|Fun Sites|
-|:---|:---|
-|[w3schools](https://www.w3schools.com/)|[Hacker Typer](http://hackertyper.com/)|
-|[Stack Overflow](https://stackoverflow.com/)|[issa.website](https://issa.website/)
-|[CSS Tricks](https://css-tricks.com/)||
-
-#### Job Resources
-
-- __[Built In Chicago](https://www.builtinchicago.org/)__: A site dedicated to Chicago Start Ups and jobs in the tech industry.
-- __[Glassdoor](https://www.glassdoor.com/)__: A site that gives insight to life at a job, as well as job listings both in the tech industry and not!
-
-
-#### Internship Resources
-- __[Microsoft Leap](http://www.industryexplorers.com/)__: An immersive, 16-week program providing you with real-world experience through development and project management apprenticeships. We’re seeking a diversity of participants with unique perspectives, who may have a non-traditional background or returning from time away from the workplace. The program combines traditional classroom learning with hands-on projects.  This Internship can lead to a job at Mircrosoft!
-
-
-#### Organizations
-
-- __[iMentor](https://imentor.org/)__: An organization that matches every student in our high schools with a committed college-educated mentor, equipped to guide that young person on their journey to college graduation.
-- __[Girls Who Code](https://girlswhocode.com/)__: An organization to dedicated to women in tech. They offer a variety of programs such as [Campus Programs](https://girlswhocode.com/campus/) for software development courses on local college campuses, and [Summer Immersion Programs](https://girlswhocode.com/summer-immersion-programs/) for internships / introductions to computer science at local companies. 
-- __[Girl Develop It](https://www.girldevelopit.com/)__: An organization dedicated to women in tech. 
-
-
-ACTIVITY:
-- Look up jobs on the sites above. Anything that stands out to you? Any job titles that we have questions about?  Find 2 jobs to share with the class. 
-- Look at the sites above, what languages / libraries do you see mentioned? Find 3 languages or libraries to share with the class.
-
+© LAWNDALE CODING 2018
 
