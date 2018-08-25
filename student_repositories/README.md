@@ -122,18 +122,17 @@ In the afternoon I showed a couple examples of collage artists while Haman cut b
 - [Omarion](https://glitch.com/edit/#!/oddball2-0?path=style.css:64:9)
 - [Purnell](https://incandescent-sandwich.glitch.me/)
 
+![mural plan 3](./../assets/wireframe.jpg)
+
 ***
 
 ## 8.13.18 : Day 6
-
-![mural plan](./../assets/IMG_0020.jpg)
-
-![mural plan 3](./../assets/wireframe.jpg)
 
 #### Summary 
 
 This morning the class completed the I am/I will image/text check in + reflection. Afterwards Amanda presented an organization system for project management to break down remaining tasks for the week. The class split into two groups, one focused on the website connected to the pop up mural and the other focused on the mural itself. 
 
+![mural plan](./../assets/IMG_0020.jpg)
 
 ***
 
@@ -191,13 +190,13 @@ In the afternoon we went to TRACE's mural unveiling which to wheatpaste two QR c
 
 ***
 
-![sign](./../assets/sign.jpg)
-
 ## 8.17.18 : Day 10
 
 #### Summary 
 
 Today students presented their websites and personal boards at Homan and their collective community pop up murals at Filmore and Kedzie. The kids worked together to finish everything in time for public presentation to invitees, fiends and family at 3pm - they also received their cheques at this celebratory pizza party. Amanda described the program, Alyssa talked everyone through the website then at the site Haman talked about the student's intentions to change the narrative and students chimed in about their experience with TRACE, murals and relating coding to how we become storytellers about our own experiences and communities. The kids held up the HONK 4 CHANGE signs and drivers responded super positively - it was super sweet to see the exchange.
+
+![sign](./../assets/sign.jpg)
 
 ***
 
