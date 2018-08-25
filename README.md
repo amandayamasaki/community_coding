@@ -48,5 +48,5 @@ No coding experience necessary.
 
 ***
 
-© LAWNDALE CODING 2018
+© COMMUNITY CODING CODING 2018
 

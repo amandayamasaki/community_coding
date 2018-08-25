@@ -202,7 +202,7 @@ Today students presented their websites and personal boards at Homan and their c
 
 Daily Summaries written by Jamilah Abu-Bakare 
 
-© LAWNDALE CODING 2018
+© COMMUNITY CODING CODING 2018
 
 
 
