@@ -215,7 +215,9 @@
 	justify-content: flex-end;
 }
 .gwc-logo{
-	height:80px;
+	min-height:50px;
+	height:10vw;
+	max-height:80px;
 	margin-right: 3vw;
 }
 .gwc-btn-wrap{
