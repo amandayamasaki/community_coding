@@ -2,90 +2,83 @@
 	min-height:100vh;
 	width:100vw;
 }
-body{
-	background-color:black !important;
-}
-
 .sidebar-wrapper{
 	padding: 0 !important;
-	background-color: #191919;
+	background-color: #f0f0f0;
 }
 .sidebar{
-/*	background-color: #191919;*/
 	padding:0 !important;
 	height:100%;
+	width:100%;
 }
-
 .sidebar a {
     text-decoration: none;
-    color: #4C4C4C;
+    color: #838383;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
     font-weight: 550;
 }
-.sidebar a:hover{
-	background-color: black;
-	text-decoration: none;
-	color:white;
+.sidebar a span{
+	font-weight:normal;
+	font-size:12px;
 }
-.sidebar a:focus{
+.sidebar .menu-item:hover{
+	background-color: white;
+	text-decoration: none;
+	color:#4C4C4C;
+}
+.sidebar .menu-item:focus{
 	color:white;
 	text-decoration: none;
-	background-color:black;
+	background-color:white;
 	outline:none;
 }
 .menu-title{
 	display:flex;
 	flex-direction: column;
 	justify-content: center;
-	color:#ccc !important;
+	color:#4C4C4C !important;
 	font-weight: 650;
 	padding:25px 16px 10px 16px;
 	margin-top:10px;
 }
-.header h1{
-	color:#4C4C4C;
-	font-size:50pt;
-}
-.sub-header{
-	height:100%;
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-end;
-	border-left:3px solid #191919;
-	color:#ccc;
+.menu-title:hover{
+	text-decoration: none;
 }
 .header{
 	min-height:12vh;
 	height:12vh;
 }
 .content{
-	color:white;
+	color:black;
 }
 .form-description{
 	height:20vh !important;
 }
 
 .form-group .btn{
-	color:black !important;
-	background-color:#4C4C4C !important;
+	color:white!important;
+	background-color:#838383 !important;
+}
+.hero-img{
+	width:100%;
+	margin-bottom: 10px;
 }
 
-
-
-
-
-
-
 @media only screen and (max-width: 992px) {
+	.active{
+		background-color:white;
+	}
     .sidebar .top-menu .col-xs-3 {
 	    text-align: center;
 	    font-weight: 600;
 	}
+	.menu-item{
+		text-align: center !important;
+	}
 	.menu-title{
-		border-bottom:3px solid black!important;
 		font-size:30px;
 		text-align: center;
 	}
@@ -93,7 +86,7 @@ body{
 		display: none;
 	}
 	.sidebar{
-		height:105px;
+		height:100px;
 	}
 	.sidebar a{
 		padding: 6px 8px 9px 16px;
@@ -110,49 +103,31 @@ body{
 		text-align: center;
 		color:#4C4C4C;
 	}
-	.artist-menu-body .menu-item{
-		text-align: center;
-		border-bottom:1px solid #191919;
-		padding:10px;
-	}
-
-	.artist-menu-body a:hover{
-		color:black;
-		text-decoration: none;
-		background-color:white;
-		outline:none;
-	}
-	.artist-menu-body a:focus{
-		color:black;
-		text-decoration: none;
-		background-color:white;
-		outline:none;
-	}
-	.artist-menu-body a{
-		margin-bottom: 25px;
-		background-color: #191919;
-		border-left:solid 2px black;
-	}
-	.top-menu .menu-item{
-		text-align: center !important;
-	}
 }
 
+
 @media only screen and (min-width: 992px) {
+	.active{
+		border-left:5px solid #FFB633;
+		text-decoration: none;
+		color:#4C4C4C !important;
+	}
 	.sidebar-wrapper{
 		height:100vh;
 		position: fixed !important;
 	}
 	.sidebar a{
-		border-bottom:1px solid black;
+		/*border-bottom:1px solid white;*/
 		padding: 6px 8px 6px 16px;
 	}
 	.artist-menu{
 		padding:0 !important;
 	}
+	.artist-menu .menu-item{
+		padding-left:30px;
+	}
 	.artist-title{
 		margin-top: 20px;
-		color:#ccc !important;
 		font-weight: 650;
 	}
 	.content{
@@ -187,47 +162,44 @@ body{
 		left:0;
 	}
 	.border-left{
-		border-left: 3px solid #191919;
-	}
-	.artist-menu-body a{
-		padding:5px;
-		border: 1px solid #4C4C4C;
-		text-align: center;
-		transition:.1s linear;
-		margin-bottom: 20px;
-	}
-	.artist-menu-body a:hover{
-		background-color: white;
-		text-decoration: none;
-		color:black;
-		border: 1px solid white;
-	}
-	.artist-menu-body a:focus{
-		background-color: white;
-		text-decoration: none;
-		color:black;
-		border: 1px solid white;
+		border-left: 3px solid #f0f0f0;
 	}
 }
 
 .resource-heading, .index-heading{
 	margin-bottom:20px;
 	padding-bottom: 10px;
-	border-bottom:3px solid #191919;
+	border-bottom:3px solid #f0f0f0;
 }
 
 .artist-menu-body a{
 	text-decoration: none;
-    color: #4C4C4C;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
     font-weight: 600;
+	padding:5px;
+	border: 1px solid white !important;
+	text-align: center;
+	transition:.1s linear;
+	margin-bottom: 20px;
+	background-color: #838383 !important;
+	color:white;
+}
+.artist-menu-body a:hover{
+	background-color: #4C4C4C !important;
+	text-decoration: none;
+	color:white;
+	border: 1px solid white;
+}
+.artist-menu-body a:focus{
+	background-color:#4C4C4C
+	text-decoration: none;
+	color:white;
+	border: 1px solid white;
 }
 
 .our-program-content{
 	margin-bottom: 30px;
 }
-
-
