@@ -1,4 +1,4 @@
-![hero image](./assets/hero.jpg)
+![hero image](./../assets/hero.jpg)
 
 # COMMUNITY CODING
 
@@ -44,7 +44,7 @@ No coding experience necessary.
 
 [Resources Google Doc](https://docs.google.com/document/d/1ZR6oJjrbNmkgdz8zqibETfTppLs7pC6LQnZlhBiQwP4/edit?ts=5b744070): Class Resource + Information
 
-![mural plan 2](./assets/kanban.jpg)
+![mural plan 2](./../assets/kanban.jpg)
 
 ***
 
