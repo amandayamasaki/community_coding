@@ -1,4 +1,4 @@
-# COMMUNITY CODING DAY 1
+# ABOUT ME WEBSITE
 ### Introduction to HTML & CSS
 
 ***
@@ -59,14 +59,6 @@ We are going to build a basic "about me" website. On this website, we can add in
 - How can we use them to make interactive websites?
 - What are transitions?
 
-
-***
-
-
-#### Daily Feedback Form
-Please submit your code for today's activity below. 
-
-[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfRpKr7MUh3Nw3T8MxQsQbpDjdpXJOg_oT5OzkEb6kPUEng-Q/viewform?c=0&w=1)
 
 ***
 
