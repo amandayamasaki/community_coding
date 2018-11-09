@@ -204,6 +204,21 @@
 	margin-bottom: 30px;
 }
 
+/* Other pages */
+.text{
+	background-color: #f0f0f0;
+	margin-top:15px;
+	margin-bottom:15px;
+	border-radius: 10px;
+	padding:25px !important;
+}
+.text .quote{
+	border-left:2px solid #838383;
+	padding-left:10px;
+	margin-left:30px;
+	color:#4C4C4C;
+}
+
 /* GWC Page */
 
 .gwc-img{
