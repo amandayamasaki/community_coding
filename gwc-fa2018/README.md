@@ -20,6 +20,7 @@ We are so excited that you're here! Now that you've joined us, it means you're a
 ### LINKS
 
 [Girls Who Code HQ](https://hq.girlswhocode.com/)
+
 [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
 ***
@@ -38,11 +39,10 @@ We are so excited that you're here! Now that you've joined us, it means you're a
 Register for Girls Who Code HQ - [Girls Who Code HQ](https://hq.girlswhocode.com/)
 
 #### Women in Tech Spotlight: Brenda Wilkerson
-```
-Brenda believes in the importance of early computer science education because she wishes that she could have been exposed to programming at an earlier age. Informed by her own experiences, she spearheaded the original Computer Science for All Initiative in Chicago Public Schools for all 400,000 students. She currently serves as the President and CEO for AnitaB.org, an organization promoting 50/50 gender diversity for technology in sectors such as academia, industry, and government.
+
+- Brenda believes in the importance of early computer science education because she wishes that she could have been exposed to programming at an earlier age. Informed by her own experiences, she spearheaded the original Computer Science for All Initiative in Chicago Public Schools for all 400,000 students. She currently serves as the President and CEO for AnitaB.org, an organization promoting 50/50 gender diversity for technology in sectors such as academia, industry, and government.
 Watch the videos below to learn more about Brenda's views on diversity, entrepreneurship, and succeeding in the tech world!
-```
-[Brenda Wilkerson HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-education/activity/clubs18-women-in-tech-spotlight-brenda-darden-wilkerson)
+- [Brenda Wilkerson HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-education/activity/clubs18-women-in-tech-spotlight-brenda-darden-wilkerson)
 
 Women in Tech Spotlight: Brenda Wilkerson Discussion
 ```
@@ -81,11 +81,8 @@ Women in Tech Spotlight: Brenda Wilkerson Discussion
 ```
 
 #### Women in Tech Spotlight: Ayanna Howard
-```
-Role models come in all shapes and sizes. In fact, Dr. Ayanna Howard’s first role model wasn’t even human! Bionic Woman, a robotic superheroine, inspired Dr. Howard’s passion for building robots and engineering at an early age. She went on to study electrical engineering and computer science in college and graduate school, and eventually earned a business degree.
 
-Continuing her love for learning, robotics, and electrical engineering, Dr. Howard currently serves as a professor of bioengineering and the co-founder and Chief Technology Officer of the educational robotics company Zyrobotics. On top of this, Dr. Howard has developed robots that are learning to inhabit Mars with NASA.
-```
+- Role models come in all shapes and sizes. In fact, Dr. Ayanna Howard’s first role model wasn’t even human! Bionic Woman, a robotic superheroine, inspired Dr. Howard’s passion for building robots and engineering at an early age. She went on to study electrical engineering and computer science in college and graduate school, and eventually earned a business degree.  Continuing her love for learning, robotics, and electrical engineering, Dr. Howard currently serves as a professor of bioengineering and the co-founder and Chief Technology Officer of the educational robotics company Zyrobotics. On top of this, Dr. Howard has developed robots that are learning to inhabit Mars with NASA.
 - [Ayanna Howard HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-robotics-and-artificial-intelligence/activity/clubs18-women-in-tech-spotlight-ayanna-howard)
 - [Youtube Link](https://www.youtube.com/watch?v=PSu52CAtpf8&feature=youtu.be)
 
@@ -120,16 +117,16 @@ CSS
 
 #### About Me Website Activity
 - Think about how we will design our About Me Website and lets start coding. 
-[About Me Activity](./1_lesson)
+- [About Me Activity](./1_lesson)
 
-- Examples
-https://about-anita-g.glitch.me/
-https://aboutme-alexusloving.glitch.me/
-https://about-mealissa.glitch.me/
-https://oddball2-0.glitch.me/
+Examples:
+- https://about-anita-g.glitch.me/
+- https://aboutme-alexusloving.glitch.me/
+- https://about-mealissa.glitch.me/
+- https://oddball2-0.glitch.me/
 
 
 #### Closing Activity 
-Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class)
-[Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
+- Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
+-b[Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
