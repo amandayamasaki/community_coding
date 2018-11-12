@@ -59,7 +59,7 @@ Women in Tech Spotlight: Brenda Wilkerson Discussion
 ```
 
 #### Closing Activity 
-[Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
+- [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
 ***
 
@@ -129,5 +129,5 @@ Examples:
 
 #### Closing Activity 
 - Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
--b[Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
+- [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
