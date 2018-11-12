@@ -40,16 +40,15 @@ Register for Girls Who Code HQ - [Girls Who Code HQ](https://hq.girlswhocode.com
 
 #### Women in Tech Spotlight: Brenda Wilkerson
 
-- Brenda believes in the importance of early computer science education because she wishes that she could have been exposed to programming at an earlier age. Informed by her own experiences, she spearheaded the original Computer Science for All Initiative in Chicago Public Schools for all 400,000 students. She currently serves as the President and CEO for AnitaB.org, an organization promoting 50/50 gender diversity for technology in sectors such as academia, industry, and government.
+Brenda believes in the importance of early computer science education because she wishes that she could have been exposed to programming at an earlier age. Informed by her own experiences, she spearheaded the original Computer Science for All Initiative in Chicago Public Schools for all 400,000 students. She currently serves as the President and CEO for AnitaB.org, an organization promoting 50/50 gender diversity for technology in sectors such as academia, industry, and government.
 Watch the videos below to learn more about Brenda's views on diversity, entrepreneurship, and succeeding in the tech world!
-- [Brenda Wilkerson HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-education/activity/clubs18-women-in-tech-spotlight-brenda-darden-wilkerson)
+
+[Brenda Wilkerson HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-education/activity/clubs18-women-in-tech-spotlight-brenda-darden-wilkerson)
 
 Women in Tech Spotlight: Brenda Wilkerson Discussion
-```
 - What program did Brenda Wilkerson start?
 - Where did this program start?
 - How would you define success?
-```
 
 #### Introduction to HTML
 ```
@@ -82,16 +81,18 @@ Women in Tech Spotlight: Brenda Wilkerson Discussion
 
 #### Women in Tech Spotlight: Ayanna Howard
 
-- Role models come in all shapes and sizes. In fact, Dr. Ayanna Howard’s first role model wasn’t even human! Bionic Woman, a robotic superheroine, inspired Dr. Howard’s passion for building robots and engineering at an early age. She went on to study electrical engineering and computer science in college and graduate school, and eventually earned a business degree.  Continuing her love for learning, robotics, and electrical engineering, Dr. Howard currently serves as a professor of bioengineering and the co-founder and Chief Technology Officer of the educational robotics company Zyrobotics. On top of this, Dr. Howard has developed robots that are learning to inhabit Mars with NASA.
-- [Ayanna Howard HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-robotics-and-artificial-intelligence/activity/clubs18-women-in-tech-spotlight-ayanna-howard)
-- [Youtube Link](https://www.youtube.com/watch?v=PSu52CAtpf8&feature=youtu.be)
+Role models come in all shapes and sizes. In fact, Dr. Ayanna Howard’s first role model wasn’t even human! Bionic Woman, a robotic superheroine, inspired Dr. Howard’s passion for building robots and engineering at an early age. She went on to study electrical engineering and computer science in college and graduate school, and eventually earned a business degree. 
+
+Continuing her love for learning, robotics, and electrical engineering, Dr. Howard currently serves as a professor of bioengineering and the co-founder and Chief Technology Officer of the educational robotics company Zyrobotics. On top of this, Dr. Howard has developed robots that are learning to inhabit Mars with NASA.
+
+[Ayanna Howard HQ Link](https://hq.girlswhocode.com/gwc/collection/clubs-inspire/set/clubs-robotics-and-artificial-intelligence/activity/clubs18-women-in-tech-spotlight-ayanna-howard)
+
+[Ayanna Howard Youtube Link](https://www.youtube.com/watch?v=PSu52CAtpf8&feature=youtu.be)
 
 Women in Tech Spotlight: Ayanna Howard Discussion
-```
 - Dr. Howard showed bravery when she spoke up in an uncomfortable situation at work. What would you say to yourself in that moment?
 - Imagine you are working with Dr. Howard on one of her robots. What might go wrong? How might you stay positive and work through the problem?
 - What inspires Dr. Howard to make innovations in robotics? Who or what inspires you?
-```
 
 #### HTML & CSS 
 ```
