@@ -1,5 +1,3 @@
-![hero image](./../assets/hero.jpg)
-
 # COMMUNITY CODING
 
 #### Course Number: 1489 + 1490
