@@ -4,8 +4,8 @@
 
 |Term|Name|
 |:---|:---|
-|Summer 2018| [Community Coding](./community_coding)|
-|Fall 2018| [Girls Who Code x Uber](./2_lesson)|
+|Summer 2018| [Community Coding](./cc-su2018)|
+|Fall 2018| [Girls Who Code x Uber](./gwc-fa2018)|
 
 ***
 
