@@ -1,7 +1,7 @@
 # GIRLS WHO CODE x UBER CLUB
 
-#### Dates: November 5 - December 17, Mondays, 4:00pm - 5:30pm
-#### Instructor: Amanda Yamasaki - amandasaki@gmail.com
+Dates: November 5 - December 17, Mondays, 4:00pm - 5:30pm
+Instructor: Amanda Yamasaki - amandasaki@gmail.com
 
 #### Welcome to the Girls Who Code x Uber Club!
 We are so excited that you're here! Now that you've joined us, it means you're a member of a sisterhood of 90,000 other awesome girls who are using computer science to shape their world. Together, we're working to ensure that women have a greater role in building the technology of the future by teaching you computer science skills today! We can't wait to introduce you to all of the interesting women and girls who are a part of this international movement.  
