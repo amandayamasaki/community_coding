@@ -1,4 +1,4 @@
-# GIRLS WHO CODE X UBER CLUB
+# GIRLS WHO CODE x UBER CLUB
 
 #### Dates: November 5 - December 17, Mondays, 4:00pm - 5:30pm
 #### Instructor: Amanda Yamasaki - amandasaki@gmail.com
