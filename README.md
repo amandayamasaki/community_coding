@@ -11,7 +11,5 @@
 
 ### LINK TO LIVE SITE : [LAWNDALECODING.COM](https://lawndalecoding.com/)
 
-[Lawndale Coding Template Page](https://glitch.com/edit/#!/lawndalecoding-template): Editable template for our website's pages.
-
 ***
 
