@@ -139,19 +139,21 @@ Examples:
 #### Introduction Activity
 ```
 - Introduction to new Volunteers + Students.
-- Tell us something you are most proud of!
+- What is one thing you're most proud of? 
 - What are you excited to learn about today?
 ```
 
 #### Women in Tech Spotlight: The Triibe
 
 [Chicago Tribune Article](https://www.chicagotribune.com/lifestyles/stevens/ct-life-stevens-monday-the-triibe-black-chicago-0226-story.html)
+
 [The Triibe Website](https://thetriibe.com)
 
 Women in Tech Spotlight: The Triibe
 - Who created this Website?
 - Why did they create this website?
 - Why is this important?
+- If you could code anything in the world, what would you code?
 
 #### HTML & CSS 
 
