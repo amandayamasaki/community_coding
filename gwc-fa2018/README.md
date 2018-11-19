@@ -118,7 +118,7 @@ CSS
 
 #### About Me Website Activity
 - Think about how we will design our About Me Website and lets start coding. 
-- [About Me Activity](./1_lesson)
+- [About Me Activity](./about_me_website)
 
 Examples:
 - https://about-anita-g.glitch.me/
@@ -131,3 +131,48 @@ Examples:
 - Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
 - [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
+
+***
+
+### Day 3 - Nov 19
+
+#### Introduction Activity
+```
+- Introduction to new Volunteers + Students.
+- Tell us something you are most proud of!
+- What are you excited to learn about today?
+```
+
+#### Women in Tech Spotlight: The Triibe
+
+[Chicago Tribune Article](https://www.chicagotribune.com/lifestyles/stevens/ct-life-stevens-monday-the-triibe-black-chicago-0226-story.html)
+[The Triibe Website](https://thetriibe.com)
+
+Women in Tech Spotlight: The Triibe
+- Who created this Website?
+- Why did they create this website?
+- Why is this important?
+
+#### HTML & CSS 
+
+Recap!
+```
+- What is an HTML Element?
+- What is the difference between an inline style and using an HTML Class?
+- Name 3 CSS properties and what they do. 
+```
+
+#### About Me Website Activity
+- Think about how we will design our About Me Website and lets start coding. 
+- [About Me Activity](./about_me_website)
+
+Examples:
+- https://about-anita-g.glitch.me/
+- https://aboutme-alexusloving.glitch.me/
+- https://about-mealissa.glitch.me/
+- https://oddball2-0.glitch.me/
+
+
+#### Closing Activity 
+- Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
+- [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
