@@ -178,3 +178,36 @@ Examples:
 #### Closing Activity 
 - Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
 - [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
+
+
+### Day 4 - Nov 26
+
+#### Introduction Activity
+```
+- What is your favorite cold weather thing to do?
+- What are you excited to learn about today?
+```
+
+#### Career Activity
+[Career Activity](./job_activity)
+
+#### About Me Website Activity
+- Think about how we will design our About Me Website and lets start coding. 
+- [About Me Activity](./about_me_website)
+
+[Tamia](https://glitch.com/edit/#!/tasteful-platypus?path=style.css:16:23)
+[keilah](https://glitch.com/edit/#!/plum-skirt?path=index.html:19:24)
+[williams](https://glitch.com/edit/#!/sparkling-trapezoid?path=index.html:35:3)
+[taniyah](https://glitch.com/edit/#!/pushy-badger?path=style.css:52:13)
+[Morgan](https://glitch.com/edit/#!/cerulean-spell?path=index.html:35:98)
+
+Examples:
+- https://about-anita-g.glitch.me/
+- https://aboutme-alexusloving.glitch.me/
+- https://about-mealissa.glitch.me/
+- https://oddball2-0.glitch.me/
+
+
+#### Closing Activity 
+- Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
+- [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
