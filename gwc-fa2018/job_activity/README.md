@@ -25,4 +25,4 @@
 
 ACTIVITY:
 - Look up jobs on the sites above. Anything that stands out to you? Any job titles that we have questions about?  Find 2 jobs to share with the class. 
-- Look at the sites above, what languages / libraries do you see mentioned? Find 3 languages or libraries to share with the class.
+- Write down a question for an engineer on a post it!

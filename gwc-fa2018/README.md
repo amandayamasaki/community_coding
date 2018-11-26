@@ -189,17 +189,17 @@ Examples:
 ```
 
 #### Career Activity
-[Career Activity](./job_activity)
+-[Career Activity](./job_activity)
 
 #### About Me Website Activity
 - Think about how we will design our About Me Website and lets start coding. 
 - [About Me Activity](./about_me_website)
 
-[Tamia](https://glitch.com/edit/#!/tasteful-platypus?path=style.css:16:23)
-[keilah](https://glitch.com/edit/#!/plum-skirt?path=index.html:19:24)
-[williams](https://glitch.com/edit/#!/sparkling-trapezoid?path=index.html:35:3)
-[taniyah](https://glitch.com/edit/#!/pushy-badger?path=style.css:52:13)
-[Morgan](https://glitch.com/edit/#!/cerulean-spell?path=index.html:35:98)
+- [Tamia](https://glitch.com/edit/#!/tasteful-platypus?path=style.css:16:23)
+- [keilah](https://glitch.com/edit/#!/plum-skirt?path=index.html:19:24)
+- [williams](https://glitch.com/edit/#!/sparkling-trapezoid?path=index.html:35:3)
+- [taniyah](https://glitch.com/edit/#!/pushy-badger?path=style.css:52:13)
+- [Morgan](https://glitch.com/edit/#!/cerulean-spell?path=index.html:35:98)
 
 Examples:
 - https://about-anita-g.glitch.me/
