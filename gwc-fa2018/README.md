@@ -211,3 +211,29 @@ Examples:
 #### Closing Activity 
 - Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
 - [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
+
+***
+
+### Day 5 - Dec 10
+
+#### Introduction Activity
+```
+- What is one thing you learned on our field trip?
+- What is one thing we want to accomplish on our websites today? 
+```
+
+#### About Me Website Activity
+Today is a work day! :)
+
+Student work:
+- Tamia https://glitch.com/edit/#!/tasteful-platypus?path=style.css:16:23
+- keilah	https://glitch.com/edit/#!/plum-skirt?path=index.html:19:24
+- taniyah	https://glitch.com/edit/#!/pushy-badger?path=style.css:52:13
+- Morgan	https://glitch.com/edit/#!/cerulean-spell?path=index.html:35:98
+- Keilah	https://glitch.com/edit/#!/about-me-website?path=index.html:1:0
+- Morgan	https://glitch.com/edit/#!/rich-doll?path=about-me.html:26:59
+- camila	https://glitch.com/edit/#!/elastic-mascara?path=index.html:24:95
+- Syrianna	https://glitch.com/edit/#!/fluffy-canid?path=style.css:40:16
+- cabria	https://glitch.com/edit/#!/omniscient-offer?path=index.html:32:56
+- taniyah	https://glitch.com/edit/#!/maddening-hurricane?path=style.css:16:19
+- Nia 	https://glitch.com/edit/#!/sugar-thief?path=style.css:53:25
