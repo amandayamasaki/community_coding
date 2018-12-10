@@ -179,6 +179,7 @@ Examples:
 - Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
 - [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
 
+***
 
 ### Day 4 - Nov 26
 
@@ -214,7 +215,7 @@ Examples:
 
 ***
 
-### Day 5 - Dec 10
+### Day 6 - Dec 10
 
 #### Introduction Activity
 ```
