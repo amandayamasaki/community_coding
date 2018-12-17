@@ -239,7 +239,11 @@ Student work:
 - taniyah	https://glitch.com/edit/#!/maddening-hurricane?path=style.css:16:19
 - Nia 	https://glitch.com/edit/#!/sugar-thief?path=style.css:53:25
 
-#### If your name is not above - please use the template below!
+##### If your name is not above - please use the template below!
 #### About Me Website Activity
 - Think about how we will design our About Me Website and lets start coding. 
 - [About Me Activity](./about_me_website)
+
+#### Closing Activity 
+- Stand Up - Rose (an accomplishment), Thorn (a challenge we overcame in todays class), Bud (an opportunity for next class).
+- [Daily Feedback Form](https://goo.gl/forms/bXi68ieErootgVq73)
