@@ -215,7 +215,7 @@ Examples:
 
 ***
 
-### Day 6 - Dec 10
+### Day 6 - Dec 17
 
 #### Introduction Activity
 ```
