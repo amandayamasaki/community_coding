@@ -219,8 +219,8 @@ Examples:
 
 #### Introduction Activity
 ```
-- What is one thing you learned on our field trip?
 - What is one thing we want to accomplish on our websites today? 
+- What does it mean to be a girl who codes?
 ```
 
 #### About Me Website Activity
@@ -238,3 +238,8 @@ Student work:
 - cabria	https://glitch.com/edit/#!/omniscient-offer?path=index.html:32:56
 - taniyah	https://glitch.com/edit/#!/maddening-hurricane?path=style.css:16:19
 - Nia 	https://glitch.com/edit/#!/sugar-thief?path=style.css:53:25
+
+#### If your name is not above - please use the template below!
+#### About Me Website Activity
+- Think about how we will design our About Me Website and lets start coding. 
+- [About Me Activity](./about_me_website)
